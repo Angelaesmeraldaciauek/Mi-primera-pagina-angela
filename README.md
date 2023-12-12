@@ -1,5 +1,5 @@
 # Mi primera página
-Tutorial desarrollado para Programá tu Futuro. 
+Una pizca de mi primera pagina 
 
 ## Conocimientos previos
 En este tutorial se asume que ya se tiene conocimiento básicos sobre:
